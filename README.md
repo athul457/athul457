@@ -9,24 +9,19 @@ Hi there 👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<hr/>
-<p align="center"
-  WEB-DEVELOPMENT
-</p>
+<hr>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,css,html,sass,react" />
   </a>
 </p>
-<hr/>
-<hr>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,nodejs,mongodb,mysql"/>
   </a>
 </p>
-</hr>
-<hr>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode"/>
