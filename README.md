@@ -24,7 +24,13 @@ Hi there 👋
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode"/>
+    <img src="https://skillicons.dev/icons?i=git,github"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode"/>
   </a>
 </p>
 </hr>
