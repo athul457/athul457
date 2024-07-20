@@ -32,7 +32,7 @@ Hi there👋
 </p>
 </hr>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athul457&theme=vue">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athul457&theme=monokai">
 </p>
 
 
