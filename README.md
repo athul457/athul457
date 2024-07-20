@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
 Hi there👋
-</p>
+</h1>
 <p align="center">
  I am Athul Sukumaran , I am a Web-Developer
 </p>
