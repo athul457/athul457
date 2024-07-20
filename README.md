@@ -18,18 +18,20 @@ Hi there 👋
     <img src="https://skillicons.dev/icons?i=js,css,html,sass,react" />
   </a>
 </p>
-
 <hr/>
-
 <hr>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,nodejs,mongodb,mysql"/>
-     <img src="https://skillicons.dev/icons?i=git/vscode"/>
   </a>
 </p>
-
+</hr>
+<hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode"/>
+  </a>
+</p>
 </hr>
 
 
