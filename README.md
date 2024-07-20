@@ -26,6 +26,7 @@ Hi there 👋
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,nodejs,mongodb,mysql"/>
+     <img src="https://skillicons.dev/icons?i=git/vscode"/>
   </a>
 </p>
 
