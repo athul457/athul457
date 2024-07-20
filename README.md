@@ -11,7 +11,11 @@ Hi there 👋
 
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css,html,sass,react" />
+  </a>
+</p>
 
 <hr/>
 
