@@ -34,6 +34,11 @@ Hi there👋
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athul457&theme=monokai">
 </p>
+<p align="center"
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme=athul457&exclude=">
+</p>
+
+
 
 
 
