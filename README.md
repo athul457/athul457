@@ -31,7 +31,8 @@ Hi there👋
   </a>
 </p>
 </hr>
-!()(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={athulsukuamaran}&theme=vue)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={athulsukuamaran}&theme=vue)
+
 
 
 
