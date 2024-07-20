@@ -12,6 +12,7 @@ Hi there 👋
 <hr/>
 
 <p align="center">
+  WEB DEVELOPMENT
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,css,html,sass,react" />
   </a>
