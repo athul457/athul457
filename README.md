@@ -2,7 +2,7 @@
 Hi there👋
 </h1>
 <p align="center">
- I am Athul Sukumaran , I am a Web-Developer
+ I am Athul Sukumaran , I am a full-stack Web-Developer
 </p>
 
 
