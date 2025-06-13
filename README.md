@@ -34,6 +34,7 @@ Hi there👋
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athul457&theme=monokai"/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athul457&theme=monokai&exclude={exclude}">
+ <img src="[http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athul457&theme=monokai&exclude={exclude}](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athul457&theme=monokai&exclude={exclude})">
 </p>
 
 
