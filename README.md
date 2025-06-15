@@ -39,6 +39,7 @@ Passionate about building responsive and user-centric web applications using mod
   </a>
 </p>
 
+### 📊 GitHub Stats
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athul457&theme=gruvbox"/>
