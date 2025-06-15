@@ -31,6 +31,7 @@ Passionate about building responsive and user-centric web applications using mod
   </a>
 </p>
 </hr>
+<hr>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athul457&theme=gruvbox"/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athul457&theme=gruvbox&exclude={exclude}">
@@ -38,3 +39,4 @@ Passionate about building responsive and user-centric web applications using mod
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=athul457&theme=gruvbox">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athul457&theme=gruvbox&utcOffSet=330">
 </p>
+</hr>
