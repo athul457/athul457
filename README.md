@@ -19,7 +19,7 @@ Passionate about building responsive and user-centric web applications using mod
 
 
 
-<h3 align="center">SKILLS</h3>
+### 💻 Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
