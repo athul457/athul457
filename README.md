@@ -15,7 +15,7 @@ Passionate about building responsive and user-centric web applications using mod
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,mysql,java"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,npm,mysql,java"/>
   </a>
 </p>
 
