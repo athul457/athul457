@@ -31,7 +31,7 @@ Passionate about building responsive and user-centric web applications using mod
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github"/>
+    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,windows"/>
   </a>
 </p>
 </hr>
