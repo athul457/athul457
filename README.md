@@ -5,12 +5,16 @@ Hi there👋,I'm Athul Sukumaran
 <p align="center">
 Passionate about building responsive and user-centric web applications using modern JavaScript frameworks and cloud technologies. Eager to contribute technical skills to innovative projects and grow within a dynamic, collaborative team environment. Seeking an entry-level opportunity to kickstart a career in full-stack or frontend development.
 </p>
+---
+### 🎓 Education
 
-<h3 align="center">Education</h3>
-<h4>MCA</h4>
-<p><em>APJ Abdul Kalam Technical University 2025</em></p>
-<h4>BSC COMPUTER SCIENCE</h4>
-<p><em>Calicut University 2021</em></p>
+- **MCA**  
+  *APJ Abdul Kalam Technological University, 2025*
+
+- **B.Sc. Computer Science**  
+  *Calicut University, 2021*
+
+---
 
 
 
