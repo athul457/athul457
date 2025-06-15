@@ -5,6 +5,9 @@ Hi there👋,I'm Athul Sukumaran
 <p align="center">
 Passionate about building responsive and user-centric web applications using modern JavaScript frameworks and cloud technologies. Eager to contribute technical skills to innovative projects and grow within a dynamic, collaborative team environment. Seeking an entry-level opportunity to kickstart a career in full-stack or frontend development.
 </p>
+<hr>
+<h1>Education</h1>
+</hr>
 
 <hr>
 
