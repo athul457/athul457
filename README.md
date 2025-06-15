@@ -8,7 +8,7 @@ Passionate about building responsive and user-centric web applications using mod
 
 <h1 align="center">Education</h1>
 <h2>MCA</h2>
-<h3>APJ Abdul Kalam Technical University</h3>
+<h3>APJ Abdul Kalam Technical University 2025</h3>
 
 
 <hr>
