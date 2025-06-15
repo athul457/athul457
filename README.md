@@ -5,15 +5,15 @@ Hi there👋,I'm Athul Sukumaran
 <p align="center">
 Passionate about building responsive and user-centric web applications using modern JavaScript frameworks and cloud technologies. Eager to contribute technical skills to innovative projects and grow within a dynamic, collaborative team environment. Seeking an entry-level opportunity to kickstart a career in full-stack or frontend development.
 </p>
-<hr>
+
 <h3 align="center">Education</h3>
 <h4>MCA</h4>
 <p><em>APJ Abdul Kalam Technical University 2025</em></p>
 <h4>BSC COMPUTER SCIENCE</h4>
 <p><em>Calicut University 2021</em></p>
-</hr>
 
-<hr>
+
+
 
 <h3 align="center">SKILLS</h3>
 
@@ -34,8 +34,8 @@ Passionate about building responsive and user-centric web applications using mod
     <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,windows"/>
   </a>
 </p>
-</hr>
-<hr>
+
+
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athul457&theme=gruvbox"/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athul457&theme=gruvbox&exclude={exclude}">
@@ -43,4 +43,4 @@ Passionate about building responsive and user-centric web applications using mod
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=athul457&theme=gruvbox">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athul457&theme=gruvbox&utcOffSet=330">
 </p>
-</hr>
+
