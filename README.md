@@ -8,9 +8,9 @@ Passionate about building responsive and user-centric web applications using mod
 <hr>
 <h3 align="center">Education</h3>
 <h4>MCA</h4>
-<p font-style="italic">APJ Abdul Kalam Technical University 2025</p>
+<p><em>APJ Abdul Kalam Technical University 2025</em></p>
 <h4>BSC COMPUTER SCIENCE</h4>
-<p>Calicut University 2021</p>
+<p><em>Calicut University 2021</em></p>
 </hr>
 
 <hr>
