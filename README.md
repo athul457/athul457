@@ -36,5 +36,5 @@ Hi there👋
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athul457&theme=monokai&exclude={exclude}">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athul457&theme=monokai&exclude={exclude}">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=athul457&theme=monokai">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athul457&theme=monokai&utcOffset=330">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athul457&theme=monokai&utcOffSet=330">
 </p>
