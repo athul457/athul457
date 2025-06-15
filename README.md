@@ -9,7 +9,7 @@ Passionate about building responsive and user-centric web applications using mod
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,sass,react" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,tailwind,react" />
   </a>
 </p>
 
