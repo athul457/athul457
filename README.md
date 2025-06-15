@@ -47,5 +47,5 @@ Seeking an entry-level opportunity to kickstart a career in full-stack or fronte
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athul457&theme=gruvbox" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athul457&theme=gruvbox" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=athul457&theme=gruvbox" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athul457&theme=gruvbox&utcOffset=330" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athul457&theme=gruvbox&utcOffSet=330" />
 </p>
