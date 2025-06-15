@@ -32,9 +32,9 @@ Hi there👋
 </p>
 </hr>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athul457&theme=solarized"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athul457&theme=solarized&exclude={exclude}">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athul457&theme=solarized&exclude={exclude}">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=athul457&theme=solarized">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athul457&theme=solarized&utcOffSet=330">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athul457&theme=gruvbox"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athul457&theme=gruvbox&exclude={exclude}">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athul457&theme=gruvbox&exclude={exclude}">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=athul457&theme=gruvbox">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athul457&theme=gruvbox&utcOffSet=330">
 </p>
